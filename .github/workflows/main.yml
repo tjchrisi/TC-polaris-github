@@ -35,4 +35,3 @@ jobs:
           
           ### Signature scan
           #polaris_test_sca_type: "SCA-SIGNATURE"
-```
